@@ -1,4 +1,4 @@
-package com.sqc.academy;
+package com.sqc.academy.Model;
 
 
 import lombok.AllArgsConstructor;
